@@ -22,3 +22,7 @@ The world leaderboard talks to `api.tanmaybohra.com`.
 ## Controls
 
 Up / down (or swipe) to change lanes, H for the horn, P to pause, M for sound.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
